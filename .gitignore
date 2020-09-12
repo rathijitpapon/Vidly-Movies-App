@@ -1,0 +1,7 @@
+vidly-api-node/node_modules
+vidly/node_modules
+
+vidly-api-node/config
+vidly/.env.development
+vidly/.env.production
+vidly/src/config.json
