@@ -5,3 +5,5 @@ vidly-api-node/config
 vidly/.env.development
 vidly/.env.production
 vidly/src/config.json
+vidly/package-lock.json
+vidly-api-node/package-lock.json
